@@ -12,7 +12,7 @@ Note that the dyno by itself has to be run as a worker.
 Configuration is being performed by setting up the **Config Vars** of the app:
 
 | parameter | default |         description        |
-|:---------:|:-------:|----------------------------|
+|-----------|:-------:|----------------------------|
 |    APPS   |    []   | array of the provided apps |
 |    INT    |  20mins | interval in milliseconds   |
 |     EP    |  /awake | endpoint                   |
