@@ -1,0 +1,10 @@
+{
+  "name": "awake",
+  "version": "1.0.0",
+  "main": "awake.js",
+  "scripts": {
+    "start": "node awake"
+  },
+  "author": "daspharion",
+  "license": "MIT"
+}
